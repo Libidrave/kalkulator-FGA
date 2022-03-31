@@ -1,9 +1,8 @@
 @media (max-width: 670px) {
     .container{
         max-width: 65%;
-        padding: 30px 10px;
+        padding: 30px auto;
         margin: 0 auto;
-        background-color: transparent;
     }
     .calculator{
         text-align: center;
