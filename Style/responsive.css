@@ -1,18 +1,25 @@
 @media (max-width: 670px) {
+    .container{
+        max-width: 65%;
+        padding: 30px 10px;
+        margin: 0 auto;
+        background-color: transparent;
+    }
     .calculator{
-        max-width: 100%;
-        margin: 50px auto 50px auto;
         text-align: center;
+        margin: 0 auto;
+        padding: 0;
+        width: 100%;
     }
 
     .calculator-screen{
         height: 50px;
         font-size: 24px;
-        width: 70%;
+        width: 100%;
     }
 
     .calculator-keys{
-        width: 70%;
+        width: 100%;
         margin: 0 auto;
     }
     
