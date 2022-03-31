@@ -7,20 +7,20 @@ body {
   margin: 50px auto;
   padding: 30px;
   width: 400px;
-  background-color: rgb(234, 234, 234);
+  background-color: #E5E3C9;
   border-radius: 30px;
 }
 
 .calculator {
-  box-shadow: 0px 0px 2px 9px rgba(0, 0, 0, 0.6);
-  -webkit-box-shadow: 0px 0px 2px 9px rgba(0, 0, 0, 0.6);
-  -moz-box-shadow: 0px 0px 2px 9px rgba(0, 0, 0, 0.6);
-  background-color: rgba(0, 0, 0, 0.6);
+  box-shadow: 0px 0px 2px 9px rgba(0, 0, 0, 0.35);
+  -webkit-box-shadow: 0px 0px 2px 9px rgba(0, 0, 0, 0.35);
+  -moz-box-shadow: 0px 0px 2px 9px rgba(0, 0, 0, 0.35);
+  background-color: #6b705c;
   text-align: center;
 }
 
 .calculator, .calculator-screen,button,.calculator-keys{
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .calculator-screen {
