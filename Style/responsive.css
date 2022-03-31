@@ -1,30 +1,30 @@
 @media (max-width: 670px) {
-    .container{
-        max-width: 65%;
-        padding: 30px auto;
-        margin: 0 auto;
-    }
-    .calculator{
-        text-align: center;
-        margin: 0 auto;
-        padding: 0;
-        width: 100%;
-    }
+  .container {
+    max-width: 65%;
+    padding: 30px auto;
+    margin: 120px auto;
+  }
+  .calculator {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+  }
 
-    .calculator-screen{
-        height: 50px;
-        font-size: 24px;
-        width: 100%;
-    }
+  .calculator-screen {
+    height: 50px;
+    font-size: 24px;
+    width: 100%;
+  }
 
-    .calculator-keys{
-        width: 100%;
-        margin: 0 auto;
-    }
-    
-    button{
-        height: 50px;
-        font-size: 24px;
-        width: 25%;
-    }
+  .calculator-keys {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  button {
+    height: 50px;
+    font-size: 24px;
+    width: 25%;
+  }
 }
